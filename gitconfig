@@ -1,0 +1,8 @@
+[credential]
+	helper = osxkeychain
+[user]
+	name = Lucas H. Xu
+	email = xuhang57@users.noreply.github.com
+	signingkey = 186D6879273C43F8
+[core]
+	editor = vim
